@@ -48,7 +48,9 @@ C++          6 mins          ░░░░░░░░░░░░░░░░░
 <h2 align="left">🏆 My Honor</h2>
 <div>
     <img align="center" width="180px" height="180px" src="./assets/astronaut.gif" loop="infinite"/>
-    <img align="center" src="./assets/hackbox.png" width="500" height="300" />
-    <img align="center" src="./assets/hcip2.jpeg" width="500" height="300" />
+    <p>
+    </p>
+    <img align="center" src="./assets/hackbox.png" width="450" height="300" />
+    <img align="center" src="./assets/hcip2.jpeg" width="450" height="300" />
 </div>
 
