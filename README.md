@@ -1,16 +1,16 @@
-### Hi there 👋
+<img src="./assets/wallpaper1.gif" alt="banner">
+<div align="center">
+    <h1 align="left">👨🏻‍💻 Senior Data Analyst @ OKX </h1>
+    <img align="left" width="180px" height="180px" src="./assets/astronaut.gif" loop="infinite"/>
+</div>
 
-<!--
-**Rtre0/Rtre0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+
+<h2 align="left">🏆 Favourite Tools</h2>
+<div>
+    <img align="center" width="400px" height = "300px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LimKimHoong&theme=react&show_icons=true&hide_border=true&layout=compact" />
+    <img align="left" src="./assets/pokemon.gif" width="300" height="200" />
+</div>
+<img src="./assets/line.gif" alt="banner">
