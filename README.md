@@ -1,6 +1,7 @@
 <img src="./assets/wallpaper1.gif" alt="banner">
 <div align="center">
-  
+<img src="./assets/giphy.gif" alt="banner">
+<div align="center">
 
 
 
