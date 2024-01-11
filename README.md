@@ -1,8 +1,6 @@
 <img src="./assets/wallpaper1.gif" alt="banner">
 <div align="center">
-
-
-
+<p>
 
 
 ```python
@@ -17,6 +15,7 @@
 >>> s1mple.dev_devices
 ["kali liunx", "Macbook pro m1"]
 ```
+
 📊 **Weekly development breakdown**
 <!--START_SECTION:waka-->
 
@@ -29,7 +28,7 @@ C++          6 mins          ░░░░░░░░░░░░░░░░░
 ```
 
 <!--END_SECTION:waka-->
-
+</p>
 
 <h2 align="left">🏆 Favourite Tools</h2>
 <div>
