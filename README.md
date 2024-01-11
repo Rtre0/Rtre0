@@ -1,5 +1,10 @@
 <img src="./assets/wallpaper1.gif" alt="banner">
 <div align="center">
+
+
+
+
+
 ```python
 >>> import Rtre0
 "Hi, I'm Rtre0! AKA script kiddie!"
@@ -22,6 +27,9 @@ CSV          1 hr 46 mins    ██▒░░░░░░░░░░░░░░
 Markdown     7 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.68 %
 C++          6 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.59 %
 ```
+
+<!--END_SECTION:waka-->
+
 
 <h2 align="left">🏆 Favourite Tools</h2>
 <div>
