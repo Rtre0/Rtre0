@@ -1,5 +1,4 @@
 <img src="./assets/wallpaper1.gif" alt="banner">
-<div align="center">
 <p>
 
 
@@ -29,6 +28,8 @@ C++          6 mins          ░░░░░░░░░░░░░░░░░
 
 <!--END_SECTION:waka-->
 </p>
+<div align="center">
+
 
 <h2 align="left">🏆 Favourite Tools</h2>
 <div>
